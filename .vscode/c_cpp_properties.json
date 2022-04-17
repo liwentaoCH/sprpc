@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/",
+                "/disk2/lwt/include/c++/9.1.0",
+                "/disk2/lwt/include/c++/9.1.0/x86_64-pc-linux-gnu",
+                "/disk2/lwt/include/c++/9.1.0/parallel"
+            ],
+            "defines": [],
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
